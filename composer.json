@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.5.0",
         "illuminate/support": "4.*|5.*",
-        "doctrine/orm": "2.5.*",
+        "doctrine/orm": "2.4.6",
         "doctrine/migrations": "1.*"
     },
 	"require-dev": {
